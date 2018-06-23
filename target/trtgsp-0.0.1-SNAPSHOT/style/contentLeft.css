@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+* { padding:0; margin:0 auto;}
+
+#staffQuery { float:left; width:229px; overflow:hidden; zoom:1; background:url(../images/staffQueryBG.gif) no-repeat left top;}
+#staffQuery #btn { height:35px; padding-top:10px;}
+#staffQuery #btn #depart { border:none; height:35px; width:101px; background:url(../images/before.gif) no-repeat left top; cursor:pointer; font-family:"宋体"; font-size:13px; color:#b05819; font-weight:bold; margin-left:9px;}
+#staffQuery #btn #check { border:none; height:35px; width:101px; background:url(../images/before.gif) no-repeat right top; cursor:pointer;font-family:"宋体"; font-size:13px; color:#b05819; font-weight:bold; margin-left:-2px; margin-left:2px\9;}
+
+
+#staffQuery #btn #depart.current {background:url(../images/after.gif) no-repeat right top;}/*实现button的hover*/
+#staffQuery #btn #check.current {background:url(../images/after.gif) no-repeat right top;}
+
+#staffList { width:112px; overflow:hidden;zoom:1; margin:31px 59px 97px 57px;}
+#staffList dl { width: 112px; overflow:hidden; zoom:1;}
+#staffList dt { height:18px; line-height:18px; background:#d9a69f; font-family:"宋体"; font-size:13px; color:#843c26; padding-left:2px;}
+#staffList dd { height:16px; padding-left:1px; border:1px solid #d9a69f; margin-top:2px;}
+#staffList dd a { text-decoration:none; display:block; height:16px; line-height:16px;font-family:"宋体";font-size:13px; color:#843c26;}
+#staffList dd#ts {font-weight:bold; height:16px; line-height:16px;font-family:"宋体";font-size:13px;color:#843c26;}
+#staffList dd a:hover { text-decoration:underline;}

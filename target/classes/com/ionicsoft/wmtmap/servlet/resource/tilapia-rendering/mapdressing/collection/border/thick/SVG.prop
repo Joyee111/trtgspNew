@@ -1,0 +1,7 @@
+RuleClassName=com.ionicsoft.api.portray.lib.map.rules.border
+
+# border width in pixels
+pixelWidth = 4
+
+# border color in rgb
+color = rgb(51, 51, 102)

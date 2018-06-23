@@ -1,0 +1,46 @@
+ul,li {
+	list-style: none;
+}
+
+.btn {
+	margin-top: 30px;
+}
+
+.lf {
+	float: left;
+}
+
+.mainDiv {
+	width:550px;
+	height: 270px;
+	position: relative;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+.querytr{
+	position: absolute;
+	left: 0px;
+	z-index: 2;
+	top: 10px;
+	width: 1400px;
+}
+
+.querytd{
+	width: 120px;
+	height: 100px;
+	float: left;
+	margin: 0 8px;
+}
+
+.prepic{
+	float: left; 
+	margin-top: 100px; 
+	margin-right: 0px;	
+}
+
+.nextpic {
+	float: right;
+	margin-top: 100px;
+	margin-right:45px;
+}

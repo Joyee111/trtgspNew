@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE FACTORY SYSTEM "factory.dtd">
+<FACTORY>
+    <CONFIGURATION>
+        <LEGEND TEMPLATE="{http}?request=GetLegendGraphic&amp;LAYER={name}&amp;STYLE={style}&amp;SERVICE=WMS&amp;VERSION=1.1.1&amp;FORMAT=image/png" DIR="./legend"/>
+        <JMX REGISTER="true" LISTENER="false" HANDLER="true"/>
+        <GARBAGE LOOP="600" IDLE="600"/>
+        <GZIP THRESHOLD="200000" ENGINECHUNK="true"/>
+        <STORAGE DIR="{tmp}tilapia/wfs/storage"/>
+    </CONFIGURATION>
+</FACTORY>

@@ -1,0 +1,4 @@
+RuleClassName=com.ionicsoft.api.portray.lib.map.rules.scale
+
+# true to draw the scale in km, false to draw it in miles
+kmUnit = false

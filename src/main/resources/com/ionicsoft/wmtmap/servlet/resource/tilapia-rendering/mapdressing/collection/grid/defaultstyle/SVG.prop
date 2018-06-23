@@ -1,0 +1,7 @@
+RuleClassName=com.ionicsoft.api.portray.lib.map.rules.grid
+
+# grid's reference system is WGS84 ?
+WGS84 = false
+
+# each grid step label is drawn ?
+fullGrid = false

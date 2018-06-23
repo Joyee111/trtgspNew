@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{ padding:0; margin:0 auto;}
+html { height:100%;}
+body { height:100%;}
+
+.login { width:100%; height:515px; background:url(../images/login.jpg) repeat-x left bottom;}
+.login_con { width:100%; height:515px; background:url(../images/loginbg.jpg) no-repeat center bottom; font-size:14px; font-family:"宋体"; color:#636465; text-align:center;}
+.login_con .table_box { padding:230px 0 0 590px; display:inline-block;}
+
+#footer { height:32px; line-height:32px; background:#fef5ee; font-size:12px; color:#7d7d7d; font-family:"微软雅黑","宋体"; text-align:center;}
+
+.text { height:28px; line-height:28px; background:#f3f3f3; border:1px solid #e5e5e5; padding:0 5px; width:165px;}
+
+.btn_login { width:94px; height:36px; background:url(../images/btn_login.gif) no-repeat; cursor:pointer; border:none; font-size:14px; color:#fff; font-family:"宋体"; font-weight:bold;}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,64 @@
+﻿# Generated: Wed May 30 18:03:00 CEST 2007
+
+BeanRule.UsePrefix=parameters
+
+RuleClassName=com.ionicsoft.api.portray.lib.rules.LabeledUniformBasicStyle
+
+parameters.antialiasMode=2
+
+parameters.directRenderingEnabled=false
+
+parameters.fill=rgb (0, 255, 0)
+
+parameters.geometryPropertyName=GEOMETRY
+
+parameters.labelAlignment=0.5,0.5
+
+parameters.labelBorrowsMarker=true
+
+parameters.labelClashManagementEnabled=true
+
+parameters.labelColor=rgb (0, 0, 0)
+
+parameters.labelDistributionPolicy=biggest
+
+parameters.labelFont.face=Arial
+
+parameters.labelFont.size=9.0
+
+parameters.labelFont.style=normal
+
+parameters.labelHaloColor=rgb (255, 255, 255)
+
+parameters.labelHaloWidth=-1
+
+parameters.labelMaxCount=128
+
+parameters.labelPadding=0,0
+
+parameters.labelPropertyName=
+
+parameters.labelsKey=
+
+parameters.legendContributor=true
+
+parameters.legendSwatchSize=16,16
+
+parameters.legendSwatchStyle=square
+
+parameters.legendTitle=
+
+parameters.markerSize=10,10
+
+parameters.stroke=rgb (255, 0, 0)
+
+parameters.strokeCapType=butt
+
+parameters.strokeDashArray=
+
+parameters.strokeJoinType=miter
+
+parameters.strokeWidth=2.0px
+
+parameters.symbol=
+

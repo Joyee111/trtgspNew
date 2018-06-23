@@ -1,0 +1,24 @@
+<decorators defaultdir="/decorators">
+    <excludes>
+        <pattern>/zywxmap/zywxmap2.htm</pattern>
+        <pattern>/40*.jsp</pattern>
+        <pattern>/*ajax=true*</pattern>
+        <pattern>/scripts/dojo/*</pattern>
+        <pattern>/struts/dojo/*</pattern> 
+        <pattern>/resources/*</pattern>
+        <pattern>/ext/scripts/date/*</pattern>
+        <pattern>/ext/scripts/kindeditor/*</pattern>
+        <pattern>/ext/scripts/kindeditor/plugins/*/*</pattern>
+        <pattern>/ext/scripts/kindeditor/plugins/*</pattern>
+        <pattern>/lookquick.html*op=quicklook*</pattern>
+        
+        <pattern>/slogout.html</pattern>
+        <pattern>/index.html</pattern>
+    </excludes> 
+    <decorator name="default" page="default.jsp">
+        
+    </decorator>
+    <decorator name="default" page="header.jsp">
+        <pattern>/shirologin.html</pattern>
+    </decorator>
+</decorators>
