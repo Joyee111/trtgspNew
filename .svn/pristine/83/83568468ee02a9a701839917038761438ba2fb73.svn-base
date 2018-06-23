@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8' ?>
-<!DOCTYPE FACTORY SYSTEM "factory.dtd">
-<FACTORY>
-    <CONFIGURATION>
-        <JMX REGISTER="true" LISTENER="false" HANDLER="true"/>
-        <STYLE DIR="{tmp}tilapia/wms/style" VERSION="2" LOADER="sld" />
-        <STORAGE DIR="{tmp}tilapia/wms/storage"/>
-    </CONFIGURATION>
-</FACTORY>

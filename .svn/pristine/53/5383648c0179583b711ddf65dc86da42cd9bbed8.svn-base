@@ -1,7 +1,0 @@
-.table_view { font-size:14px; margin:0 5 0 0; line-height:38px;}
-.table_view th {border-top:1px solid #c9deec;border-bottom:1px solid #c9deec;border-left:1px solid #c9deec;text-align:right; font-weight:normal; font-family:"ËÎÌו";background-color: #ECF5FB;}
-.table_view td {border-top:1px solid #c9deec;border-bottom:1px solid #c9deec;border-left:1px solid #c9deec;text-align:center; }
-.table_input{
-	border-style:none;
-	BACKGROUND-COLOR: transparent;
-}

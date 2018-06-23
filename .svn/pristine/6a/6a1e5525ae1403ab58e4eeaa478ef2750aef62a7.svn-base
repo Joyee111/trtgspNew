@@ -1,7 +1,0 @@
-RuleClassName=com.ionicsoft.api.portray.lib.map.rules.arrow
-
-# symbol library name
-libName = lib1
-
-# symbol name
-symbolName = roundrose.gif
